@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Diplom.Contexts;
 
 namespace Diplom
 {
@@ -15,6 +16,10 @@ namespace Diplom
         public Form1()
         {
             InitializeComponent();
+            var clientContext = new ClientContext();
+            var clients = clientContext.Clients;
+            dataGridView1.DataSource = clients.ToList();
         }
+         
     }
 }

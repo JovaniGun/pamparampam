@@ -1,1 +1,13 @@
 D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\bin\Debug\Diplom.exe.config
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\bin\Debug\Diplom.exe
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\bin\Debug\Diplom.pdb
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\bin\Debug\EntityFramework.dll
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\bin\Debug\EntityFramework.SqlServer.dll
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\bin\Debug\EntityFramework.xml
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\bin\Debug\EntityFramework.SqlServer.xml
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.exe
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.pdb
