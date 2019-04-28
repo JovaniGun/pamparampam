@@ -12,16 +12,15 @@ namespace Diplom.Models
     public class Client
     {
         [Key]
-        public int Client_id        { get; set; }
+        public int ClientId        { get; set; }
         public string Family        { get; set; }
         public string Name          { get; set; }
         public string Patronymic    { get; set; }
-        public int    Gender_id     { get; set; }
-        public Gender Gender        { get; set; }
+        public int    GenderId     { get; set; }
         public DateTime Birthday    { get; set; }
         public string Email         { get; set; }
         public string Phone         { get; set; }
-        public int Consent          { get; set; }
+        public bool Consent         { get; set; }
         
     }
 }

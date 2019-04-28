@@ -11,3 +11,6 @@ D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debu
 D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
 D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.exe
 D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.pdb
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\obj\Debug\Diplom.Views.AddClientView.resources
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\bin\Debug\Newtonsoft.Json.dll
+D:\YandexDisk\FS\4 курс\2 семестр\Диплом\Diplom\Diplom\bin\Debug\Newtonsoft.Json.xml
