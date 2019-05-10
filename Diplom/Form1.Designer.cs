@@ -35,6 +35,7 @@
             this.добавитьКлиентаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.импортироватьПокупкиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.предпочтенияКлиентовToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -51,7 +52,8 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.файлToolStripMenuItem,
-            this.добавлениеToolStripMenuItem});
+            this.добавлениеToolStripMenuItem,
+            this.предпочтенияКлиентовToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(749, 24);
@@ -91,6 +93,13 @@
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
+            // предпочтенияКлиентовToolStripMenuItem
+            // 
+            this.предпочтенияКлиентовToolStripMenuItem.Name = "предпочтенияКлиентовToolStripMenuItem";
+            this.предпочтенияКлиентовToolStripMenuItem.Size = new System.Drawing.Size(153, 20);
+            this.предпочтенияКлиентовToolStripMenuItem.Text = "Предпочтения клиентов";
+            this.предпочтенияКлиентовToolStripMenuItem.Click += new System.EventHandler(this.предпочтенияКлиентовToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -118,6 +127,7 @@
         private System.Windows.Forms.ToolStripMenuItem добавитьКлиентаToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem импортироватьПокупкиToolStripMenuItem;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.ToolStripMenuItem предпочтенияКлиентовToolStripMenuItem;
     }
 }
 

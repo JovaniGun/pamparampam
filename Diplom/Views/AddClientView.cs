@@ -34,7 +34,7 @@ namespace Diplom.Views
             {
                 string[] FIO = this.parseFIO(FIOtextBox.Text);
                 DateTime birthday = birthdayPicker.Value;
-                int gender = (int)genderComboBox.SelectedValue;
+                string gender = genderComboBox.SelectedValue.ToString();
                 string email = EmailBox.Text;
                 string phone = phoneBox.Text;
                 bool access = agreeCheckBox.Checked;

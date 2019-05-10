@@ -22,7 +22,8 @@ namespace Diplom
             InitializeComponent();
             context = new DiplomContext();
             var clients = context.Clients;
-            dataGridView1.DataSource = context.Purchases.ToList();
+            var purchases = clients.First().getPurchases();
+            dataGridView1.DataSource = context.Products.ToList();
         }
 
         private void добавитьКлиентаToolStripMenuItem_Click(object sender, EventArgs e)
@@ -45,6 +46,12 @@ namespace Diplom
             this.context.SaveChanges();
             MessageBox.Show("Импорт покупок завершен");
 
+        }
+
+        private void предпочтенияКлиентовToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ClientPreferences clpr = new ClientPreferences();
+            clpr.ShowDialog();
         }
     }
 }

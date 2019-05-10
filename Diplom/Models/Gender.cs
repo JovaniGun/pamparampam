@@ -12,7 +12,7 @@ namespace Diplom.Models
     public class Gender
     {
         [Key]
-        public int            GenderId   { get; set; }
+        public string            GenderId   { get; set; }
         public string         Gender_name { get; set; }
     }
 }
